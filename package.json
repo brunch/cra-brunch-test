@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "cra-brunch": "github:brunch/cra-brunch"
+  }
+}
