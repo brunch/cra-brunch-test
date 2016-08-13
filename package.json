@@ -8,5 +8,10 @@
   },
   "devDependencies": {
     "cra-brunch": "github:brunch/cra-brunch"
+  },
+  "scripts": {
+    "start": "cra-brunch start",
+    "build": "cra-brunch build",
+    "eject": "cra-brunch eject"
   }
 }
