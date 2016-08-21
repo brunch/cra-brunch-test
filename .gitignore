@@ -24,3 +24,7 @@ node_modules/
 
 # Brunch output folder.
 public/
+/app.css
+/app.css.map
+/app.js
+/app.js.map

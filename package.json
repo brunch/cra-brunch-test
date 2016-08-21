@@ -7,11 +7,11 @@
     "react-dom": "^15.2.1"
   },
   "devDependencies": {
-    "cra-brunch": "github:brunch/cra-brunch"
+    "react-scripts-brunch": "file:///Users/user/Developer/cra/react-scripts-brunch"
   },
   "scripts": {
-    "start": "cra-brunch start",
-    "build": "cra-brunch build",
-    "eject": "cra-brunch eject"
+    "start": "react-scripts-brunch start",
+    "build": "react-scripts-brunch build",
+    "eject": "react-scripts-brunch eject"
   }
 }
